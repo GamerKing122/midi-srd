@@ -12,7 +12,7 @@
 	"compatibility": {
 		"minimum": "10.286",
 		"verified": "11.302",
-		"maximum": "11"
+		"maximum": "12"
 	},
 	"packs": [
 		{
